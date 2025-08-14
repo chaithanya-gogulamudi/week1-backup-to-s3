@@ -1,6 +1,6 @@
 #!/bin/bash
 # Variables
-BUCKET_NAME="my-backup-bucket-142025"
+BUCKET_NAME="my-backup-bucket-xxxx"
 BACKUP_SOURCE="$HOME/week1/backup_data"
 DATE=$(date +%F)
 # Create a backup folder if not exists
